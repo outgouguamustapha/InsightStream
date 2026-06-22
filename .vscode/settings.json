@@ -1,0 +1,10 @@
+{
+  "python.analysis.extraPaths": [
+    "./"
+  ],
+  "python.autoComplete.extraPaths": [
+    "./"
+  ],
+  "terminal.integrated.cwd": "C:/Users/HP-840/.gemini/antigravity-ide/scratch/enterprise_bi_tools",
+  "git.ignoreLimitWarning": true
+}
